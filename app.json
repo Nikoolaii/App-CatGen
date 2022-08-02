@@ -4,7 +4,7 @@
     "slug": "CatGen",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/cat.ico",
+    "icon": "./assets/cat.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -22,7 +22,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/cat.ico",
+        "foregroundImage": "./assets/cat.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "nikoolaii.catgen"
