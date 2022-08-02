@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   img: {
     width: "80%",
     height: "65%",
-    borderRadius: "15px",
+    borderRadius: 15,
   },
   titleText: {
     fontSize: 20,
